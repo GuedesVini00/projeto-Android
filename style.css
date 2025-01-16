@@ -33,11 +33,6 @@ body{
     margin: auto;
 }
 
-section {
-    height: 100vh;
-    scroll-behavior: smooth;
-}
-
 a.externo::after {
     content: '\1F517';
 }
